@@ -34,3 +34,7 @@ git submodule add -b main https://github.com/qslWeb/ause.git  libs/sub-repo
 
 ##  增加标签失败情况不明
 再次提交
+
+
+## 测试第二次标签
+单独提交查看标签是否成功
