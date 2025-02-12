@@ -1,0 +1,4 @@
+[submodule "libs/sub-repo"]
+	path = libs/sub-repo
+	url = https://github.com/qslWeb/ause.git
+	branch = main
